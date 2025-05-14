@@ -12,8 +12,6 @@ I'm a third year undergraduate student from [School of CCDS](https://ccds.fzu.ed
 
 I have not published any papers yet — NeurIPS 2025 is my first submission attempt.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
-
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+I am very fortunate to be advised by Prof. Sheng Lian of XXX Lab from Fuzhou University.
 
 [Email](mailto:102204117@fzu.edu.cn) / [Github](https://github.com/SYguanxin) / [Wechat](../images/wechat.png)
